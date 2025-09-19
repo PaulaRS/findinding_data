@@ -1,6 +1,11 @@
-# Exercises TeachBooks workflow
+# Finding clinical data: X-ray datasets
 
-Getting used to the syntax of writing in a Jupyter Book can be a bit daunting at the start, not to mention becoming familiar with the various tools and workflows required. To help make the learning curve somewhat easier to travel, a number of exercises have been prepared for you as part. The exercises are designed such that no prior experience with any tools or programming is required, as long as you have read the preceding introductory pages. We welcome you to work through the exercises attached to this page (you can find them in the left sidebar).
+Sam is studying knee osteoarthritis (OA) detection using artificial intelligence (AI) algorithms.
+He is looking for an open and well-documented X-ray dataset that he can reuse to explore various AI tools.
+
+<img width="209" height="308" alt="Sam" src="https://github.com/user-attachments/assets/c025be7c-25f0-411d-86d6-5873cee46e88" />
+
+
 
 ```{tip}
 Maybe you're already comfortable with Git, GitHub and the concept of using software to parse text-based files and create marked-up documents. In that case, can you answer the following questions (referring to the exercises):
