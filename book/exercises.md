@@ -10,9 +10,9 @@ He is looking for an open and well-documented X-ray dataset that he can reuse to
 
 ```{note}
 Learning goals
-1. 
-2. 
 
+1. Find a dataset and map each of the FAIR principles to it.
 
-If something is not clear, dive into to the relevant exercise page.
+2. Recognise why FAIR datasets are important.
+
 ```
