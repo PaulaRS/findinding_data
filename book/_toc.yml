@@ -17,8 +17,6 @@ parts:
       - file: syntax_exercises/009.md
       - file: syntax_exercises/010.md
       - file: syntax_exercises/011.md
-      - file: syntax_exercises/012.md
-      - file: syntax_exercises/013.md
     - file: extensions.md
       sections:
       - file: exercises/007.md
