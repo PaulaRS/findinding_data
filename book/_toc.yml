@@ -2,7 +2,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Exercises
+  - caption: Tutorials
     chapters:
     - file: exercises.md
       sections:
