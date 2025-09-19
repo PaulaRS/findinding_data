@@ -2,10 +2,10 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'TeachBooks Template' # replace with your own book title when you use this template
+title: 'Finding data' # replace with your own book title when you use this template
 authors: #replace with your own name(s) if you use this template
-- email: info@teachbooks.io
-  name: 'TeachBooks Development Team'
+- email: adm@lumc.nl
+  name: 'Advanced Data Management'
   website: 'https://teachbooks.io/'
 message: 'If you use this teachbook, please cite it using these metadata.'
 preferred-citation:
