@@ -10,5 +10,5 @@ dataset that he can reuse to explore various AI tools.
 
 **Learning goals:**
 
-> 1. Find a dataset and map each of the FAIR principles to it.
+> 1. Find a dataset for Sam and map each of the FAIR principles to it.
 > 2. Recognise why FAIR datasets are important.
