@@ -1,4 +1,4 @@
-# Syntax exercises
+# Finding biomedical data: RNAseq datasets
 
 The previous exercise guide you through making your own book following the TeachBooks workflow. Now lets get specific and dive into the possibilities of the syntax used!
 
