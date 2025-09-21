@@ -1,4 +1,4 @@
-# Finding biomedical data: RNAseq datasets
+# Finding biomedical data: RNA-seq datasets
 
 Norah is applying machine learning methods 
 for identifying cancer lineages from RNA sequencing data. 
