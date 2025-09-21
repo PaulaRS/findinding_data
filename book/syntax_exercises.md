@@ -1,7 +1,14 @@
 # Finding biomedical data: RNAseq datasets
 
-The previous exercise guide you through making your own book following the TeachBooks workflow. Now lets get specific and dive into the possibilities of the syntax used!
+Norah is applying machine learning methods 
+for identifying cancer lineages from RNA sequencing data. 
 
-As user type 3 you will work primarily in `.md` (Markdown) or `.ipynb`(Jupyter Notebook) files. In Jupyter Book, `.md` files contain text-based content with formatting, while `ipynb` files contain both text and executable code cells. `.md` files are much easier to edit online, so let's start with those!
+<img width="290" height="311" alt="Norah" src="https://github.com/user-attachments/assets/08ffe183-445b-4dfe-bf5b-2e3e266bbcc2" />
 
-The more you write, the more different types of content you'll want to use. [JupyterBook itself provides a cheatsheet](https://jupyterbook.org/en/stable/reference/cheatsheet.html) which will come in handy!
+She is searching for reusable RNAseq datasets in the literature 
+but is unsure how to assess their reusability.
+
+**Learning goals:**
+
+> 1. Find an RNAseq dataset for Norah and map each of the FAIR principles to it.
+> 2. Recognise why FAIR datasets are important.
