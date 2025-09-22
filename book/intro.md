@@ -17,10 +17,10 @@ Feel free to choose one of the two case studies listed under 'Tutorials' and fol
 - There are screenshots of the webpages where appropriate. You can hover them for a description.
 - Questions:
 <details>
-<summary>This arrow indicates a question.</summary>
+<summary>This arrow indicates a question. You can click the arrow.</summary>
 
 ```
-You can click the arrow to see the answer. 
+You may click the arrow to reveal the answer; however, please try to solve it on your own first. 
 ```
 </details>
  
