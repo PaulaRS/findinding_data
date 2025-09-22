@@ -28,12 +28,11 @@ You may click the arrow to reveal the answer; however, please try to solve it on
 ````{hint} Hints help you solve the questions or the step 
 
 ````
-<br></br>
 
-````{notes} Notes contain information learned during this workshop
+````{note} Notes contain information learned during this workshop
 
 ````
-<br></br>
+
 ````{warning} A warning is information meant to help you avoid problems during the exercise
 
 ````
