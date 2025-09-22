@@ -25,15 +25,15 @@ You may click the arrow to reveal the answer; however, please try to solve it on
 </details>
  
 - Boards:
-````{hint} Hints help you solve the questions or the step 
+````{hint} Hints help you solve the questions. 
 
 ````
 
-````{note} Notes contain information learned during this workshop
+````{note} Notes include information presented in the introduction and relevant to the exercise.
 
 ````
 
-````{warning} A warning is information meant to help you avoid problems during the exercise
+````{warning} Warnings are information meant to help you avoid issues during the exercise.
 
 ````
 <br></br>
