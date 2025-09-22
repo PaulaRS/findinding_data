@@ -9,5 +9,5 @@ She is searching for reusable RNA-seq datasets in the literature to support her 
 
 **Learning goals:**
 
-> 1. Find an RNAseq dataset for Norah and map each of the FAIR principles to it.
+> 1. Find an RNA-seq dataset for Norah and map each of the FAIR principles to it.
 > 2. Recognise why the FAIRness of datasets is important.
