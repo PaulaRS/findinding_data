@@ -14,7 +14,16 @@ Feel free to choose one of the two case studies listed under 'Tutorials' and fol
 
 - Each case study has 2 parts.
 - Each part has between 3 to 5 steps.
-- There a screenshots of the webpages where appropriate. You can hover them for a description.
+- There are screenshots of the webpages where appropriate. You can hover them for a description.
+- Questions:
+<details>
+<summary>This arrow indicates a question.</summary>
+
+```
+You can click the arrow to see the answer. 
+```
+</details>
+ 
 - Boards:
 ````{hint} Hints help you solve the questions or the step 
 
