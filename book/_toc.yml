@@ -21,6 +21,6 @@ parts:
    #   - file: extension_exercises/014.md
   - caption: Miscellaneous
     chapters:
-    - file: references.md
+   # - file: references.md
    # - file: changelog.md
     - file: credits.md
